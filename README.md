@@ -24,5 +24,10 @@ Codigo de ejemplos para el curso sobre programacion funcional de Platzi
 
 ## Ejemplos de Inferencia
 
-[[modules/src/main/java/com/platzi/functional/_07_inference/Inferencia.java]
-]
+[modules/src/main/java/com/platzi/functional/_07_inference/Inferencia.java]
+
+## Lambdas Sintaxis
+
+
+[modules/src/main/java/com/platzi/functional/_08_lambda/Sintaxis.java]
+
