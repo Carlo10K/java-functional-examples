@@ -1,11 +1,14 @@
 # JavaSE-Functional-platzi
 Codigo de ejemplos para el curso sobre programacion funcional de Platzi
 
-Ejemplos de Function y Predicate
+## Ejemplos de Function y Predicate
 
-modules > src > main > java > com > platzi > functional > _04_functional > ExampleFunction
+[modules/src/main/java/com/platzi/functional/_04_functional/ExampleFunction.java]
 
+## Ejemplos de Consumer y Supplier
 
-Ejemplos de Consumer y Supplier
+[modules/src/main/java/com/platzi/functional/_04_functional/CLIArgumentsUtils.java]
 
-modules > src > main > java > com > platzi > functional > _04_functional > CLIArgumentsUtils
+## Ejemplos de Operators
+
+[modules/src/main/java/com/platzi/functional/_04_functional/StringFunctions.java]
