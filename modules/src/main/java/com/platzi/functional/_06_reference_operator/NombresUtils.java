@@ -27,7 +27,7 @@ public class NombresUtils {
     /*
     Funcion que nos servira para generar una lista de elementos que pasemos como parametros, no importando la cantidad
      */
-    static <T> List<T> getList(T ... elements){
+    public static <T> List<T> getList(T ... elements){
         return Arrays.asList(elements);
     }
 }
