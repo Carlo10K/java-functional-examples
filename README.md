@@ -3,7 +3,7 @@ Codigo de ejemplos para el curso sobre programacion funcional de Platzi
 
 ## Ejemplos de Function y Predicate
 
-[https://github.com/Carlo10K/java-functional-examples/blob/7c4950f0e1b1d49091b2344e7b2bcfeb96c5b203/modules/src/main/java/com/platzi/functional/_04_functional/ExampleFunction.java][Function and Predicate]
+[Function and Predicate](https://github.com/Carlo10K/java-functional-examples/blob/7c4950f0e1b1d49091b2344e7b2bcfeb96c5b203/modules/src/main/java/com/platzi/functional/_04_functional/ExampleFunction.java)
 
 ## Ejemplos de Consumer y Supplier
 
