@@ -34,3 +34,8 @@ Codigo de ejemplos para el curso sobre programacion funcional de Platzi
 
 [modules/src/main/java/com/platzi/functional/_09_default/StringFunctions.java]
 
+## Ejemplo de Chaining
+
+[modules/src/main/java/com/platzi/functional/_10_chaining/ChainingExample.java]
+
+
