@@ -7,38 +7,37 @@ Codigo de ejemplos para el curso sobre programacion funcional de Platzi
 
 ## Ejemplos de Consumer y Supplier
 
-[modules/src/main/java/com/platzi/functional/_04_functional/CLIArgumentsUtils.java]
+[Consumer and Supplier](https://github.com/Carlo10K/java-functional-examples/blob/ac3c47b4ca298080d1c8222922bc98c9840d313d/modules/src/main/java/com/platzi/functional/_04_functional/CLIArgumentsUtils.java)
 
 ## Ejemplos de Operators
 
-[modules/src/main/java/com/platzi/functional/_04_functional/StringFunctions.java]
-
+[Operators](https://github.com/Carlo10K/java-functional-examples/blob/ac3c47b4ca298080d1c8222922bc98c9840d313d/modules/src/main/java/com/platzi/functional/_04_functional/StringFunctions.java)
 
 ## Ejemplos de SAM
 
-[modules/src/main/java/com/platzi/functional/_05_sam/AgeUtils.java]
+[SAM](https://github.com/Carlo10K/java-functional-examples/blob/ac3c47b4ca298080d1c8222922bc98c9840d313d/modules/src/main/java/com/platzi/functional/_05_sam/AgeUtils.java)
 
 ## Ejemplos de Reference Operator
 
-[modules/src/main/java/com/platzi/functional/_06_reference_operator/NombresUtils.java]
+[Reference Operator](https://github.com/Carlo10K/java-functional-examples/blob/ac3c47b4ca298080d1c8222922bc98c9840d313d/modules/src/main/java/com/platzi/functional/_06_reference_operator/NombresUtils.java)
 
 ## Ejemplos de Inferencia
 
-[modules/src/main/java/com/platzi/functional/_07_inference/Inferencia.java]
+[Inference](https://github.com/Carlo10K/java-functional-examples/blob/ac3c47b4ca298080d1c8222922bc98c9840d313d/modules/src/main/java/com/platzi/functional/_07_inference/Inferencia.java)
 
 ## Lambdas Sintaxis
 
-[modules/src/main/java/com/platzi/functional/_08_lambda/Sintaxis.java]
+[Lambdas Syntax](https://github.com/Carlo10K/java-functional-examples/blob/ac3c47b4ca298080d1c8222922bc98c9840d313d/modules/src/main/java/com/platzi/functional/_08_lambda/Sintaxis.java)
 
 ## Default methods
 
-[modules/src/main/java/com/platzi/functional/_09_default/StringFunctions.java]
+[Default Method](https://github.com/Carlo10K/java-functional-examples/blob/ac3c47b4ca298080d1c8222922bc98c9840d313d/modules/src/main/java/com/platzi/functional/_09_defaults/StringFunctions.java)
 
 ## Ejemplo de Chaining
 
-[modules/src/main/java/com/platzi/functional/_10_chaining/ChainingExample.java]
+[Chaining](https://github.com/Carlo10K/java-functional-examples/blob/ac3c47b4ca298080d1c8222922bc98c9840d313d/modules/src/main/java/com/platzi/functional/_10_chaining/ChainingExample.java)
 
 ## Ejemplo de Composicion
 
-[modules/src/main/java/com/platzi/functional/_10_chaining/ChainingExample.java]
+[Composition](https://github.com/Carlo10K/java-functional-examples/blob/ac3c47b4ca298080d1c8222922bc98c9840d313d/modules/src/main/java/com/platzi/functional/_11_composition/MathOperations2.java)
 
