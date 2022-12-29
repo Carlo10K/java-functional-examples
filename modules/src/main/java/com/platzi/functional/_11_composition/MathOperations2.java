@@ -29,7 +29,7 @@ public class MathOperations2 {
                     System.out.println("Estoy elevando "+ x + " al cuadrado");
                     return x * x;
                 });
-        
+
         System.out.println(andSquare.apply(3));
     }
 }
