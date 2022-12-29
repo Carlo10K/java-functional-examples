@@ -28,6 +28,9 @@ Codigo de ejemplos para el curso sobre programacion funcional de Platzi
 
 ## Lambdas Sintaxis
 
-
 [modules/src/main/java/com/platzi/functional/_08_lambda/Sintaxis.java]
+
+## Default methods
+
+[modules/src/main/java/com/platzi/functional/_09_default/StringFunctions.java]
 
