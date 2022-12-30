@@ -43,8 +43,8 @@ Codigo de ejemplos para el curso sobre programacion funcional de Platzi
 
 ## Ejemplo de Streams
 
-[Stream](https://github.com/Carlo10K/java-functional-examples/blob/ac3c47b4ca298080d1c8222922bc98c9840d313d/modules/src/main/java/com/platzi/functional/_15_streams_intro/Streams.java
+[Stream](https://github.com/Carlo10K/java-functional-examples/blob/ac3c47b4ca298080d1c8222922bc98c9840d313d/modules/src/main/java/com/platzi/functional/_15_streams_intro/Streams.java)
 
 ## Ejemplo de TypeStreams
 
-[Stream](https://github.com/Carlo10K/java-functional-examples/blob/ac3c47b4ca298080d1c8222922bc98c9840d313d/modules/src/main/java/com/platzi/functional/_15_streams_intro/TypeStream.java
+[Stream](https://github.com/Carlo10K/java-functional-examples/blob/ac3c47b4ca298080d1c8222922bc98c9840d313d/modules/src/main/java/com/platzi/functional/_15_streams_intro/TypeStream.java)
